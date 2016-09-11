@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "A matching game made with HTML5 / JS",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardMarks/colorblockmatch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardMarks/colorblockmatch/issues"
+  },
+  "homepage": "https://github.com/RichardMarks/colorblockmatch#readme",
+  "devDependencies": {
+    "bluebird": "^3.4.6"
+  }
+}
